@@ -1,0 +1,21 @@
+.container {
+    background: darkcyan;
+    word-wrap: break-word;
+}
+.error {
+    color: red;
+}
+
+.tweet {
+    background: #9fcdff;
+    margin: 1%;
+}
+
+.tweetmsg {
+    background: white;
+    margin: 1%;
+}
+
+button {
+    margin: 1%;
+}
